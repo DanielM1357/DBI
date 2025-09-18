@@ -24,4 +24,7 @@ SELECT * FROM employees WHERE gender = 'F' OR last_name = 'Lichtner';
 
 -- er zeigt beide an...
 
+
 .schema employees 
+
+--Änderung 18.09.
